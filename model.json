@@ -6,9 +6,7 @@
                 {
                     "name": "AMAZON.CancelIntent",
                     "samples": [
-                        "exit",
-                        "quit",
-                        "cancel"
+                     
                     ]
                 },
                 {
@@ -51,7 +49,7 @@
                         "nah",
                         "nope",
                         "no thanks",
-                        "no"
+              
                     ]
                 }
             ],
